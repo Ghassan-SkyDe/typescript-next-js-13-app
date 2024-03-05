@@ -47,14 +47,6 @@ Take a look at the live project deployed on Netlify
 
 ## Preview
 
-** ------------------------------------- DESKTOP  -------------------------------------**
-<img src="https://github.com/Sky-De/typescript-next-js-13-app/assets/79264045/24cab5b3-48cb-4d18-a2c6-2232984dc548" width="80%">
-
-
-** -------------------------------------- Mobile ------------------------------------**
-
-<img src="https://github.com/Sky-De/typescript-next-js-13-app/assets/79264045/1ce66a03-45f4-4537-b805-17939286d1aa" width="270">
-
 ![line]
 
 ## About
@@ -86,7 +78,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/typescript-next-js-13-app
+git clone https://github.com/Ghassan-SkyDe/typescript-next-js-13-app
 
 # Change directory
 cd directory
@@ -105,10 +97,6 @@ npm run dev
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)
